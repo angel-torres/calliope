@@ -19,7 +19,7 @@
         "immutable": "^4.0.0-rc.12",
         "is-hotkey": "^0.1.6",
         "material-icons": "^0.3.1",
-        "node-sass": "^4.12.0",
+        "node-sass": "^4.13.1",
         "react": "^16.8.6",
         "react-dom": "^16.8.6",
         "react-loader-spinner": "^2.3.0",
